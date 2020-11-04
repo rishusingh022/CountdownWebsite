@@ -1,2 +1,2 @@
-# greivance-redressal-portal
-A multi-user-level grievance redressal web portal where users can register themselves and lodge complaints regarding college service and moderators can resolve them.
+# CountdownWebsite
+U can use this as a template for ur upcoming events website app or anything coming up just set the date in the json file
